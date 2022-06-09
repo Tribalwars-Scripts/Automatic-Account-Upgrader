@@ -12,12 +12,12 @@
 // @copyright           2022, brunommpreto (https://openuserjs.org/users/brunommpreto)
 // @license             AGPL-3.0-or-later
 // @supportURL          https://github.com/Tribalwars-Scripts/Automatic-Account-Upgrader/wiki
-// @updateURL
+// @updateURL           https://raw.githubusercontent.com/Tribalwars-Scripts/Automatic-Account-Upgrader/main/AutomaticUpgraderTribalWars.js
 // @grant               GM_getResourceText
 // @grant               GM_addStyle
 // @grant               GM_getValue
 // @grant               unsafeWindow
-// @intruções           https://docs.google.com/document/d/1jKXijn_H8QJjFJoVQEBpJ54w583P88OVV23czW3mFBo
+// @instructions           https://docs.google.com/document/d/1jKXijn_H8QJjFJoVQEBpJ54w583P88OVV23czW3mFBo
 // @require             http://code.jquery.com/jquery-1.12.4.min.js
 // ==/UserScript==
 
